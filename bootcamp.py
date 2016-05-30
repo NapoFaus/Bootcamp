@@ -6,5 +6,3 @@ def test_funcion1 ():
 print "adios"
 
 
-â
-
