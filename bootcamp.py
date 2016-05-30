@@ -1,11 +1,9 @@
 print ('testing')
 
-def funcion1 (var1):
-	if(var1 == 1):
-		print 'hola'
-	else:
-		print 'adios'
+def test_funcion1 (var1):
+	assert var1==1
 
-funcion1(1)
+
+test_funcion1(1)
 
 
